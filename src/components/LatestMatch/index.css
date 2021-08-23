@@ -1,0 +1,46 @@
+.latest-match-container {
+  margin-top: 50px;
+}
+.latest-match-details-container {
+  width: 1200px;
+  border-radius: 20px;
+  background-color: #0f172a;
+}
+.upper-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 30px;
+}
+.latest-heading {
+  color: #fff;
+  font-family: 'Bree Serif';
+}
+.team-match-details-names {
+  color: #fff;
+  font-family: 'Bree Serif';
+  font-size: 40px;
+}
+.team-match-details-para {
+  color: #fff;
+  font-family: 'Bree Serif';
+  font-size: 18px;
+}
+.latest-match-details-image {
+  width: 50%;
+}
+.lower-container {
+  padding-left: 30px;
+  padding-top: 20px;
+  padding-bottom: 30px;
+}
+.lower-heading {
+  color: #fff;
+  font-family: 'Bree Serif';
+  font-size: 25px;
+}
+.lower-para {
+  color: #fff;
+  font-family: 'Bree Serif';
+  font-size: 18px;
+}

@@ -1,0 +1,19 @@
+.team-matches-container {
+  background-image: linear-gradient(#d91c1f, #5755a7);
+  height: 600vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 30px;
+}
+.team-matches-image {
+  width: 1200px;
+  height: 45vh;
+}
+.match-card-start {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  margin-top: 50px;
+  width: 1200px;
+}
